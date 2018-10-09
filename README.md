@@ -16,15 +16,15 @@
 
 3. <i> Edge Detection </i>
 
-4. Pendefinisian * Region of Interest * (ROI)
+4. Pendefinisian <i> Region of Interest </i> (ROI)
 
-5. Transformasi * Hough Line *
+5. Transformasi <i> Hough Line </i>
 
 6. Penggambaran garis jalan.
 
 <br />
 
-<div style="text-align: justify"> Diperlukan pengembangan lebih lanjut dari program *Computer Vision* ini. Saya terbuka jika ada yang hendak menulis makalah bersama tentang pengembangan program ini, misalnya untuk aplikasi * self-driving car * atau yang lainnya. </div> <br />
+<div style="text-align: justify"> Diperlukan pengembangan lebih lanjut dari program <i> Computer Vision </i> ini. Saya terbuka jika ada yang hendak menulis makalah bersama tentang pengembangan program ini, misalnya untuk aplikasi <i> self-driving car </i> atau yang lainnya. </div> <br />
 
 Referensi:
 
