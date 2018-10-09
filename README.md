@@ -1,6 +1,6 @@
-# Identifikasi Lajur Jalan Raya Statik Melalui Foto
+# Identifikasi Lajur Jalan Raya Melalui Citra Fotografi
 
-<div style="text-align: justify"> Program ini bertujuan untuk mengindentifikasi lajur jalan raya yang kosong secara statik melalui foto. Saya menggunakan <i> library </i> openCV dan numPy. Oleh karena itu pastikan anda telah melakukan instalasi berikut ini: </div> <br />
+<div style="text-align: justify"> Program ini bertujuan untuk mengindentifikasi lajur jalan raya yang kosong secara statik melalui foto dan video. Saya menggunakan <i> library </i> openCV dan numPy. Oleh karena itu pastikan anda telah melakukan instalasi berikut ini: </div> <br />
 
 * ```pip install numpy``` <br />
 
@@ -20,7 +20,9 @@
 
 5. Transformasi <i> Hough Line </i>
 
-6. Penggambaran garis jalan.
+6. Penggambaran garis jalan pada foto
+
+7. Eksekusi program untuk video.
 
 <br />
 
